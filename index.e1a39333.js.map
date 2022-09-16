@@ -1,0 +1,1 @@
+{"mappings":"AAAAA,SAASC,KAAKC,WAAa","sources":["index.ts"],"sourcesContent":["document.body.innerHTML += '<h1> hello !</h1>';\n"],"names":["document","body","innerHTML"],"version":3,"file":"index.e1a39333.js.map"}
